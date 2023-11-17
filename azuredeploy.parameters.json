@@ -15,13 +15,13 @@
                 "value": "Free"
             },
             "repositoryUrl": {
-                "value": "https://github.com/<YOUR-GITHUB-USER-NAME>/<YOUR-GITHUB-REPOSITORY-NAME>"
+                "value": "https://https://github.com/ReachOutIT/NewRepo"
             },
             "branch": {
                 "value": "main"
             },
             "repositoryToken": {
-                "value": "<YOUR-GITHUB-PAT>" 
+                "value": "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" 
             },
             "appLocation": {
                 "value": "/"
